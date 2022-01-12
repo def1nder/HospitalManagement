@@ -1,14 +1,3 @@
-/*  --------------------------------------------------------------------------------------------------------
- *   Created by Ferhad Abdulkerimov on 09.01.22.
- *
- *   5 işlem vardır: Database oluşturma, Doktor paneli, Hasta kaydı silme ve Hasta arama.
- *   Hasta silme ile arama fonksiyonum: Linear Search kavramı ile çalışmaktadır. İnputumuz küçük olduğundan
- *   Linear Search algoritması tercih edilmiştir. Eğer input büyük olsa idi Binary Search algoritmasını
- *   tercih ederdim.
- *
- *   --->>> Doktor girişi için şifre - 12345 <<<---
- *   -------------------------------------------------------------------------------------------------------
- */
 #include <iostream>
 #include <vector>
 #define max 15
